@@ -1,5 +1,5 @@
-# Hi, I’m Aaron
-## Congrats! You found one of my online personas.
+Hi, I’m Aaron
+Congrats! You found one of my online personas.
 
 ## Current focus: Terminal-Bench-Science
 
