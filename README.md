@@ -1,6 +1,6 @@
-Congrats! You found one of my online personas.
+Hi, this is Aaron Schneider. Congrats! You found one of my online personas.
 
-## Current focus: Terminal-Bench-Science
+## Current focus: Terminal Bench Science, evaluating frontier LLMs on scientific tasks.
 
 With **CommonDevOps**, Dr. Ian Miller and I contributed a benchmark task that asks AI agents to reconstruct study-level effect sizes from published research on executive function in major depressive disorder.  
 
